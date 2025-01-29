@@ -1,6 +1,6 @@
 # Fotos: Lugar Hotel Elemento, Municipio Villa de Leyva, Departamento Boyacá.
 
-<img width="500" alt="Zona de trabajo" src="Zona de trabajo.png">
+![imagen](https://github.com/user-attachments/assets/72f74263-d51a-41b7-b106-dfcfb2c9b36b)
 
 Estas son las fechas de captura de las fotos:
 
